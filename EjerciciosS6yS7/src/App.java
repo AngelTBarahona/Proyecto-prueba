@@ -13,5 +13,6 @@ public class App {
         PoliRetoS6yS7.BarahonaAngelS7For(valorIngresado);
         PoliRetoS6yS7.BarahonaAngelS7While(valorIngresado);
         PoliRetoS6yS7.BarahonaAngelS7DoWhile(valorIngresado);
+        PoliRetoS6yS7.BarahonaAngelS7For(valorIngresado);
     }
 }
